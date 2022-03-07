@@ -16,6 +16,7 @@ public class Jmkk {
      */
     public static void main(String[] args) {
         String nev1,nev2,nev3;
+        nev1 = "DM";
     }
     
 }
